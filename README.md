@@ -1,2 +1,3 @@
-# Deploy-Static-Website-on-AWS
-First project of Cloud DevOps Engineer Nanodegree Program Udacity
+# Deploy Static Website on AWS
+
+First project of _Cloud DevOps Engineer Nanodegree Program_ Udacity
